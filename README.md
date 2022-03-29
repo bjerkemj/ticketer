@@ -1,6 +1,6 @@
 # Ticketer
 
-Gruppeprosjekt i TDT4140
+Studentprosjekt i TDT4140 - Programvareutvikling. Vi har produsert en webapplikasjon for kjøp og salg av billetter for privatepersoner.
 
 ## Hvordan starte appen
 * * *
